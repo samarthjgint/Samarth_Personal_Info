@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
                 margin: EdgeInsets.symmetric(vertical: 15.0, horizontal: 25.0),
                 child: ListTile(
                   leading: Icon(Icons.phone_iphone, size: 30.0, color: Colors.indigo),
-                  title: Text('+91 8397953260',
+                  title: Text('+91 8397XXXXX',
                         style: TextStyle(
                             fontSize: 15.0,
                             color: Colors.indigo,
@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
                 child: ListTile(
                   leading: Icon(Icons.email, size: 30.0, color: Colors.indigo),
                   title: Text(
-                    'samarth.pundir@jungleegames.com',
+                    'samarth.pundir@XXXXX.com',
                     style: TextStyle(
                         fontSize: 15.0,
                         color: Colors.indigo,
